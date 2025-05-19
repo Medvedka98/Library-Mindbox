@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ganzh\\source\\repos\\GeometryLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14ACBE62-0ABC-42D5-BAC0-945A2B24C461}|GeometryLibrary\\GeometryLibrary.csproj|c:\\users\\ganzh\\source\\repos\\geometrylibrary\\geometrylibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14ACBE62-0ABC-42D5-BAC0-945A2B24C461}|GeometryLibrary\\GeometryLibrary.csproj|solutionrelative:geometrylibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB07B44-4076-4779-B574-29121B6DA36F}|GeometryApp\\GeometryApp.csproj|C:\\Users\\ganzh\\source\\repos\\GeometryLibrary\\geometryapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB07B44-4076-4779-B574-29121B6DA36F}|GeometryApp\\GeometryApp.csproj|solutionrelative:geometryapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D96DEC0-CBA7-4939-A09A-5E6E1257C518}|GeometryLibrary.Tests\\GeometryLibrary.Tests.csproj|c:\\users\\ganzh\\source\\repos\\geometrylibrary\\geometrylibrary.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D96DEC0-CBA7-4939-A09A-5E6E1257C518}|GeometryLibrary.Tests\\GeometryLibrary.Tests.csproj|solutionrelative:geometrylibrary.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ganzh\\source\\repos\\GeometryLibrary\\GeometryApp\\Program.cs",
+              "RelativeDocumentMoniker": "GeometryApp\\Program.cs",
+              "ToolTip": "C:\\Users\\ganzh\\source\\repos\\GeometryLibrary\\GeometryApp\\Program.cs",
+              "RelativeToolTip": "GeometryApp\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T15:48:19.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\ganzh\\source\\repos\\GeometryLibrary\\GeometryLibrary.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "GeometryLibrary.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\ganzh\\source\\repos\\GeometryLibrary\\GeometryLibrary.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "GeometryLibrary.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwDEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T15:28:24.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ganzh\\source\\repos\\GeometryLibrary\\GeometryLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "GeometryLibrary\\Class1.cs",
+              "ToolTip": "C:\\Users\\ganzh\\source\\repos\\GeometryLibrary\\GeometryLibrary\\Class1.cs",
+              "RelativeToolTip": "GeometryLibrary\\Class1.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAiwD8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T15:21:28.423Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

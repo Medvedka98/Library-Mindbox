@@ -1,0 +1,14 @@
+C:\Users\ganzh\source\repos\GeometryLibrary\GeometryApp\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\ganzh\source\repos\GeometryLibrary\GeometryApp\bin\Debug\xunit.abstractions.dll
+C:\Users\ganzh\source\repos\GeometryLibrary\GeometryApp\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Users\ganzh\source\repos\GeometryLibrary\GeometryApp\bin\Debug\xunit.runner.utility.net452.dll
+C:\Users\ganzh\source\repos\GeometryLibrary\GeometryApp\bin\Debug\GeometryApp.exe.config
+C:\Users\ganzh\source\repos\GeometryLibrary\GeometryApp\bin\Debug\GeometryApp.exe
+C:\Users\ganzh\source\repos\GeometryLibrary\GeometryApp\bin\Debug\GeometryApp.pdb
+C:\Users\ganzh\source\repos\GeometryLibrary\GeometryApp\bin\Debug\GeometryLibrary.dll
+C:\Users\ganzh\source\repos\GeometryLibrary\GeometryApp\bin\Debug\GeometryLibrary.pdb
+C:\Users\ganzh\source\repos\GeometryLibrary\GeometryApp\obj\Debug\GeometryApp.csproj.AssemblyReference.cache
+C:\Users\ganzh\source\repos\GeometryLibrary\GeometryApp\obj\Debug\GeometryApp.csproj.CoreCompileInputs.cache
+C:\Users\ganzh\source\repos\GeometryLibrary\GeometryApp\obj\Debug\Geometry.1C904D5F.Up2Date
+C:\Users\ganzh\source\repos\GeometryLibrary\GeometryApp\obj\Debug\GeometryApp.exe
+C:\Users\ganzh\source\repos\GeometryLibrary\GeometryApp\obj\Debug\GeometryApp.pdb
