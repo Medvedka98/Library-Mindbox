@@ -65,4 +65,13 @@ public class GeometryTests
         // Проверка, что при создании треугольника с отрицательной стороной вызывается исключение.
         Assert.Throws<ArgumentException>(() => new Triangle(-3, 4, 5));
     }
+    [Fact]
+    public void TriangleAreaCalculation_LargeNumbers()
+    {
+        //Тест для проверки формулы Герона с большими числами
+        Triangle triangle = new Triangle(1000, 1000, 1000);
+        double expectedArea = 433012.70189; //Ожидаемое значение, рассчитанное заранее
+        Assert.Equal(expectedArea, triangle.CalculateArea(), 5);
+    }
+
 }
